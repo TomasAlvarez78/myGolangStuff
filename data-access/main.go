@@ -25,6 +25,10 @@ type Friend struct {
     career  	string
 }
 
+func connectDB() (*DB, err){
+    
+}
+
 func main() {
     // Capture connection properties.
     cfg := mysql.Config{

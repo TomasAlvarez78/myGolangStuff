@@ -12,7 +12,7 @@ INSERT INTO friends
 VALUES
   ('Tomas', 22 , 'Software Engineering'),
   ('Emma', 19, 'Plants'),
-  ('Romero', 22, 'Telecommunications Engineering'),
+  ('Romanito', 22, 'Telecommunications Engineering'),
   ('Facundito', 20 , 'Software Engineering'),
   ('Chaqueno', 19 , 'Software Engineering'),
-  ('Benjamin', 20 , 'Software Engineering');
+  ('Benja', 20 , 'Software Engineering');
